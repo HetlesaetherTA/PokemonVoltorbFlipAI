@@ -9,4 +9,7 @@ py, c++ or c# programming langauge.
 3: Figure out best stratergy for beating voltorbflip.
 4: Program Algo that does simulate best stratergy.
 
+IDEAS:
+
+Might be easier to recreate voltorbflip
 
